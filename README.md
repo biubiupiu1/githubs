@@ -1,3 +1,12 @@
+# react demo
+
+## 功能
+
++ github 各语言排行榜
++ github 各语言趋势
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

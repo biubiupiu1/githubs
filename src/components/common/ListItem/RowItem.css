@@ -1,0 +1,14 @@
+.row-item {
+  display: flex;
+  font-size: 20px;
+  align-items: center;
+  padding: 3px 0;
+}
+
+.row-item .iconfont {
+  font-size: 20px;
+}
+
+.row-item .row-item-desc {
+  padding-left: 15px;
+}

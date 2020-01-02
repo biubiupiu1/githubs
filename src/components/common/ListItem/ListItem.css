@@ -1,0 +1,38 @@
+.list-item {
+  background-color: #eeeeee;
+  padding: 20px 30px 30px;
+  margin-bottom: 20px;
+}
+
+.list-item-header {
+  font-size: 35px;
+  padding: 15px 0;
+  color: #000000bd;
+  text-align: center;
+}
+
+.list-item-avatar {
+  text-align: center;
+}
+
+.list-item-avatar h1 {
+  width: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.list-item-avatar img {
+  width: 200px;
+}
+
+.list-item-desc {
+  width: 200px;
+  text-align: center;
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  line-height: 20px;
+  height: 60px;
+}

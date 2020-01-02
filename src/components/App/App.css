@@ -1,0 +1,9 @@
+.App {
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}

@@ -1,0 +1,12 @@
+.language-select {
+  display: flex;
+  justify-content: center;
+}
+
+.language-select li {
+  padding: 20px;
+  font-size: 19px;
+  font-weight: bold;
+  list-style: none;
+  cursor: pointer;
+}
